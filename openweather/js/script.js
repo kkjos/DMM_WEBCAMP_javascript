@@ -1,4 +1,4 @@
-const API_KEY = "ef6678ff1f4617acc5500f6784603a86";
+const API_KEY = "取得したAPI_key";
 
 $(function(){
   $('#btn').on('click', function() {
